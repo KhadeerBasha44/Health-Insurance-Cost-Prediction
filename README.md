@@ -95,13 +95,15 @@ The dataset (`insurance.csv`) contains **1,338 records** with **7 features**:
 2. Select **Smoker (Yes/No)** and **Region**  
 3. Click **"Predict"** to get the estimated cost  
 
-![Streamlit App Demo](https://via.placeholder.com/600x400?text=Streamlit+App+Demo)  
+![Streamlit App Demo]![image](https://github.com/user-attachments/assets/4bc1b90e-bbaf-4d41-8eef-c2d212133348)
+
 
 ### **2. Tkinter Desktop GUI**  
 🔹 **Offline prediction tool**  
 🔹 Simple form-based input  
 
-![Tkinter GUI Demo](https://via.placeholder.com/600x400?text=Tkinter+GUI+Demo)  
+![Tkinter GUI Demo]![image](https://github.com/user-attachments/assets/6f13eec7-13af-49f0-9f3a-eb51c0242337)
+
 
 ---
 
