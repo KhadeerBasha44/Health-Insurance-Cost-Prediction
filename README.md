@@ -34,7 +34,7 @@ Health-Insurance-Cost-Prediction/
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/Health-Insurance-Cost-Prediction.git
+git clone https://github.com/khadeerbasha44/Health-Insurance-Cost-Prediction.git
 cd Health-Insurance-Cost-Prediction
 ```
 
