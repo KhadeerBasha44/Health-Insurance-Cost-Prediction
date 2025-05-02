@@ -23,8 +23,7 @@ Health-Insurance-Cost-Prediction/
 │   └── EDA_and_Model_Training.ipynb # Jupyter Notebook for EDA & training  
 │── app/  
 │   ├── streamlit_app.py             # Streamlit Web App  
-│   └── tkinter_gui.py               # Desktop GUI  
-│── requirements.txt                 # Python dependencies  
+│   └── tkinter_gui.py               # Desktop GUI    
 └── README.md  
 ```  
 
