@@ -121,7 +121,7 @@ The dataset (`insurance.csv`) contains **1,338 records** with **7 features**:
 
 ## **📧 Contact**  
 👤 **Khadeer Basha K**  
-📧 your-khadeershaik2906@gmail.com
+📧 khadeershaik2906@gmail.com
 🔗 LinkedIn: [Your Profile](https://linkedin.com/in/khadeer-basha-k-0a3b4b278/)  
 
 ---
@@ -137,5 +137,3 @@ The dataset (`insurance.csv`) contains **1,338 records** with **7 features**:
 
 ---
 
-### **📜 License**  
-This project is licensed under **MIT License**.  
